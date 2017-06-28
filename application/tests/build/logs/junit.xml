@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Get_users_test" file="E:\wamp64\www\login-exercise\application\tests\models\Get_users_test.php" tests="4" assertions="4" errors="0" failures="0" skipped="0" time="0.084086">
+    <testcase name="test_get_users_true" class="Get_users_test" classname="Get_users_test" file="E:\wamp64\www\login-exercise\application\tests\models\Get_users_test.php" line="11" assertions="1" time="0.026122"/>
+    <testcase name="test_get_users_blank" class="Get_users_test" classname="Get_users_test" file="E:\wamp64\www\login-exercise\application\tests\models\Get_users_test.php" line="37" assertions="1" time="0.019326"/>
+    <testcase name="test_check_email_true" class="Get_users_test" classname="Get_users_test" file="E:\wamp64\www\login-exercise\application\tests\models\Get_users_test.php" line="44" assertions="1" time="0.019221"/>
+    <testcase name="test_check_email_false" class="Get_users_test" classname="Get_users_test" file="E:\wamp64\www\login-exercise\application\tests\models\Get_users_test.php" line="51" assertions="1" time="0.019417"/>
+  </testsuite>
+</testsuites>
